@@ -1,6 +1,9 @@
 body {
     background: rgb(192, 192, 219);
 }
+#logo {
+    width: 20px;
+}
 h1 { 
     color: #3a448f;
     text-align: center;
